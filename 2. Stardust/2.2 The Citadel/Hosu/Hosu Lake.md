@@ -1,0 +1,1 @@
+Hosu Lake is a large body of water resting at the center of the Citadel with minor . It's dark blue hues entrap the eyes of casual onlookers at night with its fluorescent lights that flourish beneath its deep surface, and in the day the lake is full of life. Yet the real wonder lies in the [[Amphitheatre]]
