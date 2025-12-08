@@ -1,0 +1,8 @@
+[[Ri1-Pride]]
+[[Ri2-Wrath]]
+[[Ri3-Lust]]
+[[Ri5-Grief]]
+[[Ri6-Gluttony]]
+[[Ri7-Envy]]
+[[Ri8-Judgement]]
+[[Ri9-Heresy]]

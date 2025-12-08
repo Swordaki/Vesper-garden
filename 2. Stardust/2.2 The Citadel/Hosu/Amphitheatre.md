@@ -1,0 +1,1 @@
+A large round Amphitheatre curves over the epicentre of The Citadel's 

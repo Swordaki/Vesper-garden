@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"72ff6710cdd37247","x":-600,"y":-360,"width":400,"height":400,"type":"file","file":"1. Hell/1.1 Families/Katasine Family.md"},
+		{"id":"b2e5b27db2d1037c","x":120,"y":360,"width":400,"height":400,"type":"file","file":"1. Hell/1.2 Characters/The Katasine Family/Kira Katasine.md"},
+		{"id":"c049490d42c953ce","x":40,"y":-600,"width":400,"height":400,"type":"file","file":"1. Hell/1.2 Characters/The Katasine Family/Darian Katasine.md"},
+		{"id":"eb4ff24505075a79","x":-1280,"y":-920,"width":400,"height":400,"type":"file","file":"1. Hell/1.2 Characters/The Katasine Family/Adeline Katasine.md"},
+		{"id":"1f738becdeef7ac5","x":-1400,"y":160,"width":400,"height":400,"type":"file","file":"1. Hell/1.2 Characters/The Katasine Family/Velia Katasine.md"},
+		{"id":"d3be71197bd025b8","x":-600,"y":280,"width":400,"height":400,"type":"file","file":"1. Hell/1.2 Characters/The Katasine Family/Aislyn Katasine.md"}
+	],
+	"edges":[
+		{"id":"20c2de8826fad89f","fromNode":"1f738becdeef7ac5","fromSide":"top","toNode":"72ff6710cdd37247","toSide":"left"},
+		{"id":"b25c37b6c0375199","fromNode":"eb4ff24505075a79","fromSide":"right","toNode":"72ff6710cdd37247","toSide":"top"},
+		{"id":"e6fa82f4698f0b9f","fromNode":"c049490d42c953ce","fromSide":"left","toNode":"72ff6710cdd37247","toSide":"right"},
+		{"id":"7a1e28b965efafa8","fromNode":"b2e5b27db2d1037c","fromSide":"left","toNode":"72ff6710cdd37247","toSide":"bottom"}
+	]
+}
