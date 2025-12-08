@@ -1,0 +1,2 @@
+Cannibal royalty, they were in charge of equally distributing demon meat for the gluttony community, and they were in alliance with the Sanguine family, which caused them surprise when their own started getting killed by the Sanguines.
+They are also a family whose morals are up for question, as they are one to kill demons to turn into weapons, known as "Harvesting".  
