@@ -1,0 +1,1 @@
+![[Abysse Thunder di Nouva.png]]
