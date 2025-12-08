@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"3dcfdb5d86fccfc4","type":"file","file":"2. Stardust/2.3 Characters/A General/Nika.md","x":640,"y":1167,"width":400,"height":400},
+		{"id":"ce4c99817c5e7d2f","type":"file","file":"9 Misc/Z- Image Stocks/Stardust Image Stock/Citadel_s Map.jpg","x":-360,"y":450,"width":780,"height":780},
+		{"id":"5410037e14a01e4a","type":"file","file":"2. Stardust/2.3 Characters/A General/Kisu.md","x":-40,"y":-720,"width":400,"height":655},
+		{"id":"de50954e8957a493","type":"file","file":"2. Stardust/2.3 Characters/A General/Elijah.md","x":-1560,"y":360,"width":400,"height":655},
+		{"id":"c52d39d60d796670","type":"file","file":"2. Stardust/2.3 Characters/A General/Akihiko.md","x":1360,"y":105,"width":400,"height":510}
+	],
+	"edges":[
+		{"id":"5ad05b62652a75f0","fromNode":"de50954e8957a493","fromSide":"bottom","toNode":"ce4c99817c5e7d2f","toSide":"bottom"},
+		{"id":"15df0577e0fc67dd","fromNode":"5410037e14a01e4a","fromSide":"left","toNode":"de50954e8957a493","toSide":"right"},
+		{"id":"0ce963aa57a06d07","fromNode":"5410037e14a01e4a","fromSide":"top","toNode":"ce4c99817c5e7d2f","toSide":"top"},
+		{"id":"7d4f67ef80990105","fromNode":"3dcfdb5d86fccfc4","fromSide":"top","toNode":"5410037e14a01e4a","toSide":"right"},
+		{"id":"0ea84d69d1d7cba6","fromNode":"3dcfdb5d86fccfc4","fromSide":"left","toNode":"ce4c99817c5e7d2f","toSide":"bottom"},
+		{"id":"56225788ca8df1fa","fromNode":"c52d39d60d796670","fromSide":"left","toNode":"5410037e14a01e4a","toSide":"right"},
+		{"id":"0749672ddb30de89","fromNode":"c52d39d60d796670","fromSide":"bottom","toNode":"3dcfdb5d86fccfc4","toSide":"right"}
+	]
+}
